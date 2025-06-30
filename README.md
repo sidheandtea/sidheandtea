@@ -1,38 +1,41 @@
-
-![sidheandtea-banner-2x1](https://github.com/user-attachments/assets/3f437379-fc50-4b6c-bd14-3a855a95dc0e)
-
-You can call me C or Vyx (or just go *pspspsps* and I'll probably show up). I'm a storyteller, designer, and creative thinker with a deep passion for weaving meaning and beauty into everything I create. Whether it's crafting character-driven narratives in lore-rich worlds or designing aesthetic Notion workspaces and graphic designs, I thrive at the crossroads of functionality and artistic expression. 
+![designer-developer-dreamer](https://github.com/user-attachments/assets/5a9b1c1f-2135-4989-8f07-fb84b3217638)
 
 <div align="center">
 
-[![Steam](https://img.shields.io/badge/-black?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/sidheandtea/)[![Discord](https://img.shields.io/badge/-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/449221147477671973)[![Instagram](https://img.shields.io/badge/-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sidheandtea)[![Pinterest](https://img.shields.io/badge/-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/sidheandtea/)
+[![Steam](https://img.shields.io/badge/-black?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/sidheandtea/)[![Dev.to](https://img.shields.io/badge/-0a0a0a?style=for-the-badge&logo=dev.to)](https://dev.to/sidheandtea)[![Medium](https://img.shields.io/badge/-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sidheandtea)[![Discord](https://img.shields.io/badge/-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/449221147477671973)[![Instagram](https://img.shields.io/badge/-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sidheandtea)[![Pinterest](https://img.shields.io/badge/-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/sidheandtea/)
 
 </div>
 
-***
-
-### ☕ My cup of ~~tea~~ coffee
-* **Symbolism and Mysticism**: From celestial designs and Celtic knots to floriography and astrological motifs, I infuse layers of meaning into my work, typically drawing on wellsprings of Welsh, Celtic, and Norse mythologies.
-* **Color Harmony**: Exploring palettes inspired by elements, seasons, and even Pokémon types helps me bring out the emotional depth of every project. Exploring the way that colors work with each other and the human subconscious is always exciting.
-* **Storytelling**: Above all, I'm a weaver of words. With an educational background in Creative Writing, Psychology, and Information Systems, my passions all converge at the heart of telling a story. Character growth, power dynamics, and the relationship between man and the divine are at the heart of my narratives. I love creating rich worlds and lore so deep you need to bring a shovel, often drawing from folklore and dark fantasy themes.
-* **Video Games & TTRPG**: I love playing video games, and always have. I grew up with an older sister who named me after her favorite video games, and I haven't changed since then. Final Fantasy, Pokémon, Harvestella, Avowed, the list goes on. I also live in the tabletop gaming space, with 
-* **Artificial Intelligence**: I don't have enough words to express what I love about ML and AI, so just ask - but be prepared for a PhD thesis worth of discussion.
-
-### 🧚‍♀ My current flight path
-* **Notion Workspace Makeover**: [Notion](https://www.notion.so/) is one of my favorite tools for the creative flexibility it gives in leveraging custom icons and relational databases that can be used to form dynamic color palettes. Right now, I'm desgining a timeless and cohesive workspace featuring celestial and Celtic motifs with nature-inspired elements. After that, it's a cozy and sweet Pokémon Cafe theme centered around Eevee and its Eeveelutions.
-* **Color Palette Refinement**: Experimenting with light and dark modes to make elemental-inspired palettes adaptable for various themes. I'm also on the path to create a Notion widget for building and saving color palettes.
-* **Microsoft's AI Skills Fest**: Did I mention I love AI? Because I really do. Between April 8 - May 28, I'm taking part in [Microsoft's AI Skills Fest](https://aiskillsfest.event.microsoft.com/).
+You can call me C or Vyx (or just go *pspspsps* and I'll probably show up). I'm an author, gamer, and systems designer who thrives where storytelling meets structure. My creative work orbits around celestial calendars, interactive lore engines, and gamified mechanics that breathe life into fictional worlds.
 
 ***
 
-### 🪄 What I use to work my magic
+## ✨ What I'm Working On Now
 
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* **Eosín Calendar Widget** for the *Legends of Lacuna* novels my partner writes and the world we build together, featuring dynamic moon cycles, seasonal shifts, and adaptable to any fantasy world to map real-world time to fantasy dates.
+* **Prototyping in Capacities**, bridging conceptual worldbuilding with technical implementation.
+* **Accessible, Seasonal UI Themes** with colorblind friendly palette-driven design as a means of enhancing narrative tone and player experience.
+* **Lacuna Resonant Codex**, a narrative engine for tabletop campaigns and storytelling in the world of the *Legends of Lacuna*.
 
-### 📚 What I'm learning
+## 🔮 My Long-Term Vision
 
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white)
+To build tools and frameworks that empower GMs, players, writers, and narrative designers to craft immersive, emotionally intelligent worlds - where lore isn't just a backstory, but a living, breathing part of the experience.
 
-### ✨ Oooh, shiny...
+## 📜 Tools & Frameworks
 
-![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=fff) ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+### Best Practices
+
+[![SemVer](https://img.shields.io/badge/SemVer-3F4551?&logo=SemVer&style=for-the-badge)](http://semver.org/) [![Conventional Commits](https://img.shields.io/badge/conventional_commits-fe5196?logo=conventionalcommits&logoColor=white&style=for-the-badge)](https://www.conventionalcommits.org/en/v1.0.0/)
+
+### Comfort Zone
+
+[![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)](https://www.adobe.com/creativecloud.html?promoid=TKZTL72S&xProduct=&mv=other&mv2=ahome&xProductLocation=) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com) [![Capacities](https://custom-icon-badges.demolab.com/badge/capacities.io-white?logo=capacities-io&style=for-the-badge)](https://capacities.io) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge) ![Mermaid](https://img.shields.io/badge/Mermaid-ff3670?&logo=Mermaid&logoColor=white&style=for-the-badge) ![Shields.io](https://img.shields.io/badge/shields.io-black?style=for-the-badge&logo=shields.io) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.com/@sidheandtea) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Learning Curve
+
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=JavaScript) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white)
+
+### Experimenting
+
+![Sass](https://img.shields.io/badge/Sass-cc6699?&logo=Sass&logoColor=white&style=for-the-badge) ![Styled-Components](https://img.shields.io/badge/styled--components-db7093?&logo=styled-components&logoSize=auto&style=for-the-badge&logoColor=white) ![Vanilla Extract](https://img.shields.io/badge/vanilla_extract-f786ad?&logo=vanillaextract&logoColor=white&style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?&logo=LangChain&logoSize=auto&style=for-the-badge) ![LangGraph](https://img.shields.io/badge/LangGraph-1c3c3c?&logo=LangGraph&logoSize=auto&style=for-the-badge)
