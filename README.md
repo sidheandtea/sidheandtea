@@ -1,41 +1,84 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 ![designer-developer-dreamer](https://github.com/user-attachments/assets/5a9b1c1f-2135-4989-8f07-fb84b3217638)
 
-<div align="center">
+<div align="center" style="font-size: 25px;">
 
-[![Steam](https://img.shields.io/badge/-black?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/sidheandtea/)[![Dev.to](https://img.shields.io/badge/-0a0a0a?style=for-the-badge&logo=dev.to)](https://dev.to/sidheandtea)[![Medium](https://img.shields.io/badge/-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sidheandtea)[![Discord](https://img.shields.io/badge/-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/449221147477671973)[![Instagram](https://img.shields.io/badge/-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sidheandtea)[![Pinterest](https://img.shields.io/badge/-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/sidheandtea/)
+[![Steam](https://img.shields.io/badge/-black?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/sidheandtea/)[![Dev.to](https://img.shields.io/badge/-0a0a0a?style=for-the-badge&logo=dev.to)](https://dev.to/sidheandtea)[![Medium](https://img.shields.io/badge/-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sidheandtea)[![Discord](https://img.shields.io/badge/-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/449221147477671973)[![Instagram](https://img.shields.io/badge/-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sidheandtea)[![Pinterest](https://img.shields.io/badge/-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/sidheandtea/)<br>
+<i class="devicon-astro-plain"></i>
+<i class="devicon-canva-original"></i>
+<i class="devicon-notion-plain"></i>
+<i class="devicon-markdown-original"></i>
+<i class="devicon-css3-plain-wordmark"></i>
+<i class="devicon-html5-plain-wordmark"></i>
+<i class="devicon-sass-original"></i>
+<i class="devicon-tailwindcss-original"></i>
 
 </div>
 
-You can call me C or Vyx (or just go *pspspsps* and I'll probably show up). I'm an author, gamer, and systems designer who thrives where storytelling meets structure. My creative work orbits around celestial calendars, interactive lore engines, and gamified mechanics that breathe life into fictional worlds.
+---
 
-***
+## About
 
-## ✨ What I'm Working On Now
+You can call me C or Vyx (or just go *pspspsps* and I'll probably show up). I'm a software engineer and technical writer who thrives on building helpful tools, writing clear docs, and automating the boring stuff. I like making things that help *other* devs do awesome work—especially when it means less support tickets and more time to code (or game).
 
-* **Eosín Calendar Widget** for the *Legends of Lacuna* novels my partner writes and the world we build together, featuring dynamic moon cycles, seasonal shifts, and adaptable to any fantasy world to map real-world time to fantasy dates.
-* **Prototyping in Capacities**, bridging conceptual worldbuilding with technical implementation.
-* **Accessible, Seasonal UI Themes** with colorblind friendly palette-driven design as a means of enhancing narrative tone and player experience.
-* **Lacuna Resonant Codex**, a narrative engine for tabletop campaigns and storytelling in the world of the *Legends of Lacuna*.
+## Drive & Philosophy
 
-## 🔮 My Long-Term Vision
+I believe in open knowledge, *answering questions with documentation*, and making tech a little more human.
 
-To build tools and frameworks that empower GMs, players, writers, and narrative designers to craft immersive, emotionally intelligent worlds - where lore isn't just a backstory, but a living, breathing part of the experience.
+## Interests
 
-## 📜 Tools & Frameworks
+* **Platform engineering & automation:** Streamlining cloud stuff and building workflows so devs have fewer headaches
+* **Docs & knowledge sharing:** Whether it's a quick how-to, a detailed onboarding, or a reusable template—if it helps devs move faster, I'm into it
+* **Mentoring & community:** Happy to answer questions, fix docs, or help others level up
+* **Mixing tech + creativity:** Blending web design, docs, and a bit of UX flair
 
-### Best Practices
+## Tech & Tools
 
-[![SemVer](https://img.shields.io/badge/SemVer-3F4551?&logo=SemVer&style=for-the-badge)](http://semver.org/) [![Conventional Commits](https://img.shields.io/badge/conventional_commits-fe5196?logo=conventionalcommits&logoColor=white&style=for-the-badge)](https://www.conventionalcommits.org/en/v1.0.0/)
+<div style="font-size: 30px;">
+<i class="devicon-astro-plain"></i>
+<i class="devicon-canva-original"></i>
+<i class="devicon-notion-plain"></i>
+<i class="devicon-markdown-original"></i>
+<i class="devicon-css3-plain-wordmark"></i>
+<i class="devicon-html5-plain-wordmark"></i>
+<i class="devicon-sass-original"></i>
+<i class="devicon-tailwindcss-original"></i>
+</div>
 
-### Comfort Zone
+## Skills & Services
 
-[![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)](https://www.adobe.com/creativecloud.html?promoid=TKZTL72S&xProduct=&mv=other&mv2=ahome&xProductLocation=) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com) [![Capacities](https://custom-icon-badges.demolab.com/badge/capacities.io-white?logo=capacities-io&style=for-the-badge)](https://capacities.io) [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge)](https://github.com/features/copilot) [![Mermaid](https://img.shields.io/badge/Mermaid-ff3670?&logo=Mermaid&logoColor=white&style=for-the-badge)](https://mermaid.js.org/) [![Shields.io](https://img.shields.io/badge/shields.io-black?style=for-the-badge&logo=shields.io)](https://shields.io) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+<div style="width: 100%; overflow: hidden;">
+<div style="float: left; width: 55%;">
 
-### Learning Curve
-
-[![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/) [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=JavaScript)](https://www.java.com/en/) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en) [![React](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
-
-### Experimenting
-
-[![Sass](https://img.shields.io/badge/Sass-cc6699?&logo=Sass&logoColor=white&style=for-the-badge)](https://sass-lang.com/) [![Styled-Components](https://img.shields.io/badge/styled--components-db7093?&logo=styled-components&logoSize=auto&style=for-the-badge&logoColor=white)](https://styled-components.com/) [![Vanilla Extract](https://img.shields.io/badge/vanilla_extract-f786ad?&logo=vanillaextract&logoColor=white&style=for-the-badge)](https://vanilla-extract.style/)
-[![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?&logo=LangChain&logoSize=auto&style=for-the-badge)](https://www.langchain.com/) [![LangGraph](https://img.shields.io/badge/LangGraph-1c3c3c?&logo=LangGraph&logoSize=auto&style=for-the-badge)](https://www.langchain.com/langgraph)
+   <div style="float: left; width: 40%; padding: 2px;">
+   <h3> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><g fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="#cad3f5" d="M8.128 14.499h-4.81c-.386 0-.818-.432-.818-.818V2.317c0-.385.432-.817.817-.817h9.37c.385 0 .817.432.817.817v6.866m-8-3.683H10.5m-5 4h3" stroke-width="2" /><path stroke="#a6da95" d="m9.5 12.5l2 2l4-4" stroke-width="2" /></g></svg> Documentation</h3>
+      <ul>
+         <li>Technical Writing</li>
+         <li>Knowledge Management</li>
+         <li>Content Strategy</li>
+         <li>Editing & Publishing</li>
+         <li>Creative Writing</li>
+         <li>Storytelling</li>
+      </ul>
+   </div><div style="float: right; width: 40%; padding: 2px;">
+   <h3> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 16 16"><path fill="none" stroke="#cad3f5" stroke-linecap="round" stroke-linejoin="round" d="m1.875 8l.686-2.743a1 1 0 0 1 .97-.757h10.938a1 1 0 0 1 .97 1.243l-.315 1.26M6 13.5H2.004A1.5 1.5 0 0 1 .5 12V3.5a1 1 0 0 1 1-1h5a1 1 0 0 1 1 1v1" stroke-width="1.5" /><g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4"><path stroke="#f4dbd6" d="M12 21a9 9 0 0 1 0-18c4.97 0 9 3.582 9 8c0 1.06-.474 2.078-1.318 2.828S17.693 15 16.5 15H14a2 2 0 0 0-1 3.75A1.3 1.3 0 0 1 12 21" transform="matrix(.41667 0 0 .4167 6.75 6.747)" /><path stroke="#ed8796" d="M7.5 10.5c0 1.333 2 1.333 2 0s-2-1.333-2 0" transform="matrix(.41667 0 0 .4167 6.75 6.747)" /><path stroke="#a6da95" d="M11.5 7.5c0 1.333 2 1.333 2 0s-2-1.333-2 0" transform="matrix(.41667 0 0 .4167 6.75 6.747)" /><path stroke="#8aadf4" d="M15.5 10.5c0 1.333 2 1.333 2 0s-2-1.333-2 0" transform="matrix(.41667 0 0 .4167 6.75 6.747)" /></g></svg> Systems Design</h3>
+      <ul>
+         <li>Narrative Systems</li>
+         <li>Worldbuilding Tools</li>
+         <li>UI/UX Design (Accessibility, Palettes & Themes)</li>
+         <li>Information Architecture</li>
+         <li>Gamified Mechanics</li>
+      </ul>
+   </div>
+</div>
+<div style="float: right; width: 35%; padding: 2px;">
+   <h3> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 16 16"><g fill="none" stroke="#f5bde6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M13.42 8.93L8.01 14.5L2.59 8.93a3.85 3.85 0 0 1-.93-3.8A3.55 3.55 0 0 1 8 4.01a3.55 3.55 0 0 1 6.34 1.14c.4 1.34.05 2.8-.92 3.79" /><path d="M8 4L5.72 6.53a.77.77 0 0 0 0 1.06l.4.4c.5.52 1.21.55 1.7.02l.74-.8a2.25 2.25 0 0 1 3.25 0l1.62 1.68m-5.05 2.25l1.44 1.5m.36-3.38l1.45 1.5" /></g></svg> Communication & Leadership</h3>
+      <ul>
+         <li>Mentoring & Tutoring</li>
+         <li>Team Collaboration</li>
+         <li>Process Organization</li>
+         <li>Support Automation</li>
+      </ul>
+</div>
+</div>
